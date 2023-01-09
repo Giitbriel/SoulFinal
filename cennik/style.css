@@ -17,7 +17,18 @@ button {
 
 }
 
+#table-wrapper {
+  position:relative;
+}
+#table-scroll {
+  height:70vh;
+  overflow:auto;  
+  margin-top:10px;
+}
+#table-wrapper table {
+  width:100%;
 
+}
 
 
 table{
