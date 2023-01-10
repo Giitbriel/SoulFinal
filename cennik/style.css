@@ -21,7 +21,7 @@ button {
   position:relative;
 }
 #table-scroll {
-  height:70vh;
+  height:100vh;
   overflow:auto;  
   margin-top:10px;
 }
